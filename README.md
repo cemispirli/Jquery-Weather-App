@@ -1,3 +1,4 @@
+![](https://github.com/cemispirli/Jquery-Weather-App/blob/master/Jquery%20Weather%20App.gif)
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
